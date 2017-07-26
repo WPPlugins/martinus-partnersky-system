@@ -1,0 +1,41 @@
+/* 
+    Created on : 23.4.2014, 20:36:37
+    Author     : Maxim
+*/
+
+div#martinus{
+/*  display: inline;*/
+}
+#martinus.banner468{
+  width: 468px;
+  height: 60px;
+  display: inline;
+ }
+ 
+ #martinus.banner300{
+  width: 300px;
+  height: 300px;
+  display: inline;
+ }
+ 
+ #martinus.banner160{
+  width: 160px;
+  height: 600px;
+  display: inline;
+ }
+  
+ #martinus.m-center{
+   margin: 10px auto;
+   display: block !important;
+   
+ }
+ #martinus.m-left{
+   float: left;
+   display: block !important;
+   margin: 10px;
+ }
+  #martinus.m-right{
+   float: right;
+   display: block !important;
+   margin: 10px;
+ }
